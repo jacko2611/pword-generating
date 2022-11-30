@@ -12,7 +12,7 @@ const characters = {
   function writePassword() {
     const lengthAnswer = prompt("Please enter a number between 8 and 128");
     const length = parseInt(lengthAnswer);
-    if (length >= 8 && length < 128) {
+    if (length >= 8 && length <= 128) {
         const letterAnswer = confirm("Would you like letters in your password?")
         const numberAnswer = confirm("Would you like numbers in your password?")
         const symbolAnswer = confirm("Would you like symbols in your password?")
