@@ -22,3 +22,6 @@ THEN the password is either displayed in an alert or written to the page
 ## Description
 I have successfully completed the assignment. Using for loops within the write password function to 
 feed possible characters through based on user input criteria.
+
+## Deployment
+Below is a screenshot of the deployed application, which can be found at this link: https://jacko2611.github.io/pword-generating/
