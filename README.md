@@ -25,3 +25,4 @@ feed possible characters through based on user input criteria.
 
 ## Deployment
 Below is a screenshot of the deployed application, which can be found at this link: https://jacko2611.github.io/pword-generating/
+<img width="1440" alt="Screen Shot 2022-12-01 at 10 58 20 am" src="https://user-images.githubusercontent.com/117012325/204934359-de50c3d4-f68f-42ae-99db-41765114cbdd.png">
